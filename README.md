@@ -1,11 +1,5 @@
-# Hi there 👋
+# Jesús Villota Miranda
 
-Welcome to my GitHub profile!
+I am a PhD Candidate in Economics at CEMFI in Madrid, advised by Enrique Sentana. My research studies financial markets using high-frequency data, econometrics, and machine-learning methods. My main research interests are Empirical Asset Pricing, Derivatives, Market Microstructure, Machine Learning in Finance, and Large Language Models. Before the PhD, I completed an MRes in Economics & Finance at CEMFI, with a specialization in Econometrics & Data Science, and a BA in Business Administration at the University of La Rioja, with a specialization in Finance.
 
-I am Jesús Villota Miranda, a PhD Candidate in Economics at CEMFI (Madrid, Spain), where I am advised by Enrique Sentana and Dante Amengual.
-
-My research focuses on financial markets using high-frequency data, econometrics, and machine-learning methods.
-
-My main areas of research interest include Empirical Asset Pricing, Derivatives, Market Microstructure, Machine Learning in Finance, Large Language Models (LLMs).
-
-Feel free to connect with me through my [personal website](https://jesusvillota.github.io), [Google Scholar](https://scholar.google.com/citations?hl=en&user=i_5i5v0AAAAJ), [LinkedIn](https://www.linkedin.com/in/jesusvillotamiranda/), or by [email](mailto:jesus.villota@cemfi.edu.es).
+[Personal website](https://jesusvillota.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=i_5i5v0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/jesusvillotamiranda/) · [jesusvillotam@gmail.com](mailto:jesusvillotam@gmail.com) · [jesus.villota@cemfi.edu.es](mailto:jesus.villota@cemfi.edu.es)
